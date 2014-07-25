@@ -1,0 +1,24 @@
+﻿<div class="top_header">
+			<div id="top_yun">
+				<div class="w_width">
+					<div class="fl main_logo">
+						<a href="javascript:;" title="">幼师云</a>
+					</div>
+					<div class="fr main_login">
+						<a href="javascript:;" title="">登录</a>
+						<span>|</span>
+						<a href="javascript:;" title="">注册</a>
+					</div>
+				</div>
+			</div>
+			<div id="top_nav">
+				<div class="w_width">
+					<div class="fl layer_logo">
+						<a href="javascript:;" title=""><img src="img/logo.png" height="50" /></a>
+					</div>
+					<div class="fr main_timer">
+						<span id="showtime">2014年7月15日  15:30:00   星期二</span>
+					</div>
+				</div>
+			</div>
+		</div>

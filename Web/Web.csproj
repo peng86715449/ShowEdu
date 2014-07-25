@@ -51,17 +51,110 @@
     <Reference Include="System.Web.ApplicationServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="About.aspx" />
-    <Content Include="Account\ChangePassword.aspx" />
-    <Content Include="Account\ChangePasswordSuccess.aspx" />
-    <Content Include="Account\Login.aspx" />
-    <Content Include="Account\Register.aspx" />
-    <Content Include="Styles\Site.css" />
-    <Content Include="Default.aspx" />
+    <Content Include="css\css.css" />
+    <Content Include="css\style.css" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
-    <Content Include="Scripts\jquery-1.4.1.js" />
-    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="head.shtml" />
+    <Content Include="img\760_看图王.png" />
+    <Content Include="img\banner_1.jpg" />
+    <Content Include="img\banner_2.jpg" />
+    <Content Include="img\banner_3.jpg" />
+    <Content Include="img\banner_4.jpg" />
+    <Content Include="img\banner_img.jpg" />
+    <Content Include="img\banner_img2.jpg" />
+    <Content Include="img\banner_img3.jpg" />
+    <Content Include="img\banner_img4.jpg" />
+    <Content Include="img\icon-01.png" />
+    <Content Include="img\icon-02.png" />
+    <Content Include="img\icon-03.png" />
+    <Content Include="img\icon-04.png" />
+    <Content Include="img\icon-05.png" />
+    <Content Include="img\icon-06.png" />
+    <Content Include="img\icon-07.png" />
+    <Content Include="img\icon-08.png" />
+    <Content Include="img\icon-09.png" />
+    <Content Include="img\icon-10.png" />
+    <Content Include="img\icon-11.png" />
+    <Content Include="img\icon-12.png" />
+    <Content Include="img\icon-13.png" />
+    <Content Include="img\icon-14.png" />
+    <Content Include="img\icon-15.png" />
+    <Content Include="img\icon-16.png" />
+    <Content Include="img\icon-17.png" />
+    <Content Include="img\icon-18.png" />
+    <Content Include="img\icon-19.png" />
+    <Content Include="img\icon-20.png" />
+    <Content Include="img\icon-21.png" />
+    <Content Include="img\icon-22.png" />
+    <Content Include="img\icon-23.png" />
+    <Content Include="img\icon-24.png" />
+    <Content Include="img\icon-25.png" />
+    <Content Include="img\icon-26.png" />
+    <Content Include="img\icon-27.png" />
+    <Content Include="img\icon-28.png" />
+    <Content Include="img\icon-29.png" />
+    <Content Include="img\icon-30.png" />
+    <Content Include="img\icon-31.png" />
+    <Content Include="img\icon-32.png" />
+    <Content Include="img\icon-33.png" />
+    <Content Include="img\icon-34.png" />
+    <Content Include="img\icon-35.png" />
+    <Content Include="img\icon-36.png" />
+    <Content Include="img\icon-37.png" />
+    <Content Include="img\icon-38.png" />
+    <Content Include="img\icon-39.png" />
+    <Content Include="img\icon-40.png" />
+    <Content Include="img\icon-41.png" />
+    <Content Include="img\icon-42.png" />
+    <Content Include="img\icon-43.png" />
+    <Content Include="img\icon-44.png" />
+    <Content Include="img\icon-45.png" />
+    <Content Include="img\icon-46.png" />
+    <Content Include="img\icon-47.png" />
+    <Content Include="img\icon-48.png" />
+    <Content Include="img\icon-49.png" />
+    <Content Include="img\icon-50.png" />
+    <Content Include="img\icon-51.png" />
+    <Content Include="img\icon-52.png" />
+    <Content Include="img\icon-53.png" />
+    <Content Include="img\icon-54.png" />
+    <Content Include="img\icon-55.png" />
+    <Content Include="img\icon-56.png" />
+    <Content Include="img\icon-57.png" />
+    <Content Include="img\icon-58.png" />
+    <Content Include="img\icon-59.png" />
+    <Content Include="img\icon-60.png" />
+    <Content Include="img\icon-61.png" />
+    <Content Include="img\icon-62.png" />
+    <Content Include="img\icon-63.png" />
+    <Content Include="img\icon-64.png" />
+    <Content Include="img\icon-65.png" />
+    <Content Include="img\icon-66.png" />
+    <Content Include="img\icon-67.png" />
+    <Content Include="img\icon-68.png" />
+    <Content Include="img\icon-69.png" />
+    <Content Include="img\icon-70.png" />
+    <Content Include="img\icon-71.png" />
+    <Content Include="img\icon-72.png" />
+    <Content Include="img\icon-73.png" />
+    <Content Include="img\icon-74.png" />
+    <Content Include="img\icon-75.png" />
+    <Content Include="img\icon-76.png" />
+    <Content Include="img\icon-77.png" />
+    <Content Include="img\icon-78.png" />
+    <Content Include="img\icon-79.png" />
+    <Content Include="img\icon-80.png" />
+    <Content Include="img\icon.jpg" />
+    <Content Include="img\list_dot.jpg" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\not-tit_bg.png" />
+    <Content Include="img\tologo.png" />
+    <Content Include="img\宣传图1.png" />
+    <Content Include="img\宣传图2.png" />
+    <Content Include="index.shtml" />
+    <Content Include="js\js.js" />
+    <Content Include="qibutech_index.html" />
+    <Content Include="top.shtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -71,66 +164,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="About.aspx.cs">
-      <DependentUpon>About.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="About.aspx.designer.cs">
-      <DependentUpon>About.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Account\ChangePassword.aspx.cs">
-      <DependentUpon>ChangePassword.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Account\ChangePassword.aspx.designer.cs">
-      <DependentUpon>ChangePassword.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
-      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
-      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Account\Login.aspx.cs">
-      <DependentUpon>Login.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Account\Login.aspx.designer.cs">
-      <DependentUpon>Login.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Account\Register.aspx.cs">
-      <DependentUpon>Register.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Account\Register.aspx.designer.cs">
-      <DependentUpon>Register.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Default.aspx.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Site.Master.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Site.Master.designer.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Account\Web.config" />
-    <Content Include="Site.Master" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">

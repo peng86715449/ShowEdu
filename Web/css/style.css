@@ -1,0 +1,15 @@
+/***公共样式***/
+html, body{width:100%; height:100%;}
+body{background:#f2f2f2; font-size:12px; height:auto; font-family:Arial, Helvetica, sans-serif,'宋体','微软雅黑','黑体'; color:#333;}
+html, body, h1, h2, h3, h4, h5, h6, form, input, textarea, div, span, p, br, table tbody tr td, table thead tr td, table tfoot tr td, ul li, ul, li, ol li, ol, dl, dt, dd, dl dt, dl dd{margin:0px; padding:0px;}
+ul li, ul ol li{list-style:none;}
+a{text-decoration:none; color:#333;}
+img{border:0px;}
+textarea{resize:none;}
+em, i{font-style:normal;}
+/****通用样式****/
+.fl{float:left;}
+.fr{float:right;}
+/***页页****/
+.page_layer{width:100%; height:auto; }
+.w_width{width:1000px; margin:0 auto;}
