@@ -1,0 +1,4 @@
+C:\Users\Tony\Desktop\ShowEdu\Model\bin\Debug\Model.dll
+C:\Users\Tony\Desktop\ShowEdu\Model\bin\Debug\Model.pdb
+C:\Users\Tony\Desktop\ShowEdu\Model\obj\Debug\Model.dll
+C:\Users\Tony\Desktop\ShowEdu\Model\obj\Debug\Model.pdb

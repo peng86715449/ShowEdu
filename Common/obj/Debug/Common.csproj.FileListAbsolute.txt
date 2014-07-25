@@ -1,0 +1,4 @@
+C:\Users\Tony\Desktop\ShowEdu\Common\bin\Debug\Common.dll
+C:\Users\Tony\Desktop\ShowEdu\Common\bin\Debug\Common.pdb
+C:\Users\Tony\Desktop\ShowEdu\Common\obj\Debug\Common.dll
+C:\Users\Tony\Desktop\ShowEdu\Common\obj\Debug\Common.pdb

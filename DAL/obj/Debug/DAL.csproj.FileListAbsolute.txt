@@ -1,0 +1,7 @@
+C:\Users\Tony\Desktop\ShowEdu\DAL\bin\Debug\DAL.dll
+C:\Users\Tony\Desktop\ShowEdu\DAL\bin\Debug\DAL.pdb
+C:\Users\Tony\Desktop\ShowEdu\DAL\obj\Debug\DAL.dll
+C:\Users\Tony\Desktop\ShowEdu\DAL\obj\Debug\DAL.pdb
+C:\Users\Tony\Desktop\ShowEdu\DAL\bin\Debug\Model.dll
+C:\Users\Tony\Desktop\ShowEdu\DAL\bin\Debug\Model.pdb
+C:\Users\Tony\Desktop\ShowEdu\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

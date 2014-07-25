@@ -1,0 +1,13 @@
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\Web.dll
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\Web.pdb
+C:\Users\Tony\Desktop\ShowEdu\Web\obj\Debug\Web.dll
+C:\Users\Tony\Desktop\ShowEdu\Web\obj\Debug\Web.pdb
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\BLL.dll
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\Common.dll
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\DAL.dll
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\Model.dll
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\BLL.pdb
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\Common.pdb
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\DAL.pdb
+C:\Users\Tony\Desktop\ShowEdu\Web\bin\Model.pdb
+C:\Users\Tony\Desktop\ShowEdu\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
